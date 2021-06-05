@@ -107,3 +107,5 @@ inputElement.addEventListener('select', () => {
     alert('You selected the text!');
 })
 
+// that's all 10 finished.
+
